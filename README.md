@@ -2,7 +2,7 @@
 here will be my collection of python scripts
 # compress
 #### compresses images by resaving them
-rewritten [script](https://sixey.es/program/py/files/resave.py) originally made by [musho](github.com/free-ghz)
+rewritten [script](https://sixey.es/program/py/files/resave.py) originally made by [musho](https://github.com/free-ghz)
 usage: open it, type filename and quality of the picture(typing more than ten is useless)
 ![compress.py](https://github.com/nikistiw/python-scripts/raw/master/images/img_1.jpg)
 ![compress.py](https://github.com/nikistiw/python-scripts/raw/master/images/img_2.jpg)
